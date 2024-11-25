@@ -1,0 +1,6 @@
+path: D:/yolo/training_data
+train: images/train
+val: images/train
+
+names:
+  0: membrane
