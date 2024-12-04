@@ -88,7 +88,7 @@ Virtual Envuronment: pip install -r requirements.txt
 - **fig_plot**: this variable in the code is associated with a JPG of the current DIC image with the membrane location in each pixel column (blue) and the circular fit (red) overlayed. An example image is shown below:
 
 <div style="text-align: center;">
-    <img title="a title" alt="Alt text" src="images/example_image_output.png" style="width: 400px; height: auto;">
+    <img title="a title" alt="Alt text" src="images/example_image_output.jpg" style="width: 400px; height: auto;">
 </div>
 
 
